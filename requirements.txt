@@ -1,7 +1,6 @@
 pyfiglet
 colorama
 uuid
-webbrowser
 random
 secrets
 requests
