@@ -1,0 +1,9 @@
+pyfiglet
+colorama
+uuid
+webbrowser
+random
+secrets
+requests
+user_agent
+token_hex
