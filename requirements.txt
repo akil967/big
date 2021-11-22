@@ -1,7 +1,6 @@
 pyfiglet
 colorama
 uuid
-random
 secrets
 requests
 user_agent
