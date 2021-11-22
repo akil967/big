@@ -1,7 +1,5 @@
 pyfiglet
 colorama
 uuid
-secrets
 requests
 user_agent
-token_hex
